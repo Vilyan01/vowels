@@ -15,6 +15,10 @@ The idea behind vowels is that every action has an effect on an entity. This is 
 
 Lets say for example we have a race of orcs (*entities*). This race is driven by gold, territorial dominance, and self preservation (*interests*). There are many things an orc can do. It can sleep, roam, attack players, hunt, and socialize (*actions*). All of these actions will satisfy the interests of the orc in some way. However, lets say roaming will satisfy the interests the best. The orcs will form parties and conduct patrols throughout its territories. They encounter a caravan and come to a decision point. Their desire for gold and territorial dominance outweighs their desire for self preservation and they decide to attack the caravan. There are two *outcomes* for this scenario. They either win and are enriched by gold, or lose the fight. Each of these *outcomes* will *update* the weight of their interests in a different manner.
 
+## Diagram
+
+![diagram](docs/images/diagram.png)
+
 ## Usage
 
 1. Open your **Terminal** application.
